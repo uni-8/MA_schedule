@@ -1,1 +1,1 @@
-# MA_schedule
+# Study schedule in Mate Academy

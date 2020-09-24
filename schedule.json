@@ -1,0 +1,348 @@
+{
+  "frontend": [
+    {
+      "task": "Алгоритмічні задачі",
+      "description": "Щоденне вирішення алгоритмічних задач допоможе тобі розвинути логічне мислення і навчить знаходити рішення практичних задач.",
+      "timeStart": "09:00",
+      "timeEnd": "10:00",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Заняття",
+      "description": "Розбір нового матеріалу з коучем в лайв режимі.",
+      "timeStart": "10:00",
+      "timeEnd": "11:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Обід",
+      "description": "null",
+      "timeStart": "11:30",
+      "timeEnd": "12:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Практична робота",
+      "description": "Самостійна робота з новим матеріалом, освоєння теоретичної частини та виконання практичних задач.",
+      "timeStart": "12:30",
+      "timeEnd": "15:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Розбір",
+      "description": "Відео дзвінок з ментором, під час якого ти розбереш типові помилки та отримаєш допомогу з виконанням практичних задач.",
+      "timeStart": "15:30",
+      "timeEnd": "17:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "false"
+      }
+    },
+    {
+      "task": "Тестова співбесіда",
+      "description": "Тестова співбесіда з ментором та коучем, яка підготує тебе до реальної співбесіди та покаже, які знання треба покащити.",
+      "timeStart": "15:30",
+      "timeEnd": "17:30",
+      "daysRepeat": {
+        "Mon": "false",
+        "Tue": "false",
+        "Wed": "false",
+        "Thu": "false",
+        "Fri": "true"
+      }
+    }
+  ],
+  "qa": [
+    {
+      "task": "Тестуємо",
+      "description": "Тестуємо різні продукти.",
+      "timeStart": "09:00",
+      "timeEnd": "10:00",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Заняття",
+      "description": "Розбір нового матеріалу з коучем в лайв режимі.",
+      "timeStart": "10:00",
+      "timeEnd": "11:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Обід",
+      "description": "null",
+      "timeStart": "11:30",
+      "timeEnd": "12:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Практична робота",
+      "description": "Самостійна робота з новим матеріалом, освоєння теоретичної частини та виконання практичних задач.",
+      "timeStart": "12:30",
+      "timeEnd": "16:00",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Розбір",
+      "description": "Відео дзвінок з ментором, під час якого ти розбереш типові помилки та отримаєш допомогу з виконанням практичних задач.",
+      "timeStart": "16:00",
+      "timeEnd": "17:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "false"
+      }
+    },
+    {
+      "task": "Тестова співбесіда",
+      "description": "Тестова співбесіда з ментором та коучем, яка підготує тебе до реальної співбесіди та покаже, які знання треба покащити.",
+      "timeStart": "16:00",
+      "timeEnd": "17:30",
+      "daysRepeat": {
+        "Mon": "false",
+        "Tue": "false",
+        "Wed": "false",
+        "Thu": "false",
+        "Fri": "true"
+      }
+    }
+  ],
+  "ui-ux": [
+    {
+      "task": "Заняття",
+      "description": "Розбір нового матеріалу з коучем в лайв режимі.",
+      "timeStart": "10:00",
+      "timeEnd": "11:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "false"
+      }
+    },
+    {
+      "task": "Майстер-клас",
+      "description": "Коуч в лайв режимі покаже як вирішувати складні, або нетривіальні задачі.",
+      "timeStart": "10:00",
+      "timeEnd": "11:30",
+      "daysRepeat": {
+        "Mon": "false",
+        "Tue": "false",
+        "Wed": "false",
+        "Thu": "false",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Практична робота",
+      "description": "Самостійна робота з новим матеріалом, освоєння теоретичної частини та виконання практичних задач.",
+      "timeStart": "11:30",
+      "timeEnd": "13:00",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Обід",
+      "description": "null",
+      "timeStart": "13:00",
+      "timeEnd": "14:00",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Практична робота",
+      "description": "Самостійна робота з новим матеріалом, освоєння теоретичної частини та виконання практичних задач.",
+      "timeStart": "14:00",
+      "timeEnd": "16:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "false"
+      }
+    },
+    {
+      "task": "Ретроспектива",
+      "description": "Розбір типових помилок за весь тиждень.",
+      "timeStart": "14:00",
+      "timeEnd": "15:30",
+      "daysRepeat": {
+        "Mon": "false",
+        "Tue": "false",
+        "Wed": "false",
+        "Thu": "false",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Відео",
+      "description": "Ти записуєш відео-фідбек про навчаьний тиждень та вчишся презентувати свою роботу.",
+      "timeStart": "15:30",
+      "timeEnd": "16:00",
+      "daysRepeat": {
+        "Mon": "false",
+        "Tue": "false",
+        "Wed": "false",
+        "Thu": "false",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Розбір",
+      "description": "Відео дзвінок з ментором, під час якого ти розбереш типові помилки та отримаєш допомогу з виконанням практичних задач.",
+      "timeStart": "17:00",
+      "timeEnd": "18:00",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "false",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "false"
+      }
+    }
+  ],
+  "java": [
+    {
+      "task": "Алгоритмічні задачі",
+      "description": "Щоденне вирішення алгоритмічних задач допоможе тобі розвинути логічне мислення і навчить знаходити рішення практичних задач.",
+      "timeStart": "09:00",
+      "timeEnd": "10:00",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Заняття",
+      "description": "Розбір нового матеріалу з коучем в лайв режимі.",
+      "timeStart": "10:00",
+      "timeEnd": "11:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Обід",
+      "description": "null",
+      "timeStart": "11:30",
+      "timeEnd": "12:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Практична робота",
+      "description": "Самостійна робота з новим матеріалом, освоєння теоретичної частини та виконання практичних задач.",
+      "timeStart": "12:30",
+      "timeEnd": "15:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "true"
+      }
+    },
+    {
+      "task": "Розбір",
+      "description": "Відео дзвінок з ментором, під час якого ти розбереш типові помилки та отримаєш допомогу з виконанням практичних задач.",
+      "timeStart": "15:30",
+      "timeEnd": "17:30",
+      "daysRepeat": {
+        "Mon": "true",
+        "Tue": "true",
+        "Wed": "true",
+        "Thu": "true",
+        "Fri": "false"
+      }
+    },
+    {
+      "task": "Тестова співбесіда",
+      "description": "Тестова співбесіда з ментором та коучем, яка підготує тебе до реальної співбесіди та покаже, які знання треба покащити.",
+      "timeStart": "15:30",
+      "timeEnd": "17:30",
+      "daysRepeat": {
+        "Mon": "false",
+        "Tue": "false",
+        "Wed": "false",
+        "Thu": "false",
+        "Fri": "true"
+      }
+    }
+  ]
+}
